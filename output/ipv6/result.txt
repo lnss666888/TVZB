@@ -619,6 +619,8 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江教科影视,http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江民生休闲,http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
@@ -632,6 +634,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
+浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州生活,http://goo.bkpcp.top/mg/hzsh
@@ -763,6 +766,7 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 IHOT,#genre#
+IHOT爱电竞,http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 IHOT爱谍战,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 IHOT爱动漫,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
@@ -786,9 +790,12 @@ IHOT爱院线,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000
 IHOT爱院线,http://yc.myds.me:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 NEWTV,#genre#
+NEWTV精品综合,http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 NEWTV精品大剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
+NEWTV精品大剧,http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 NEWTV精品纪录,http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 NEWTV精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
+NEWTV精品萌宠,http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 NEWTV超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 NEWTV超级电影,http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 NEWTV超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
@@ -808,9 +815,11 @@ NEWTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 NEWTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NEWTV惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NEWTV军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
+NEWTV军旅剧场,http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 NEWTV军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
 NEWTV明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 NEWTV炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
+NEWTV炫舞未来,http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 NEWTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
 
 海外频道,#genre#
